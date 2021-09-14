@@ -10962,7 +10962,7 @@
 											"top": 342,
 											"width": 102.2607421875,
 											"height": 13,
-											"text": "+numEtudiant: Int",
+											"text": "-numEtudiant: Int",
 											"horizontalAlignment": 0
 										}
 									],
@@ -11333,7 +11333,7 @@
 											"top": 446,
 											"width": 111.642578125,
 											"height": 13,
-											"text": "+nom: String",
+											"text": "-nom: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -11350,7 +11350,7 @@
 											"top": 461,
 											"width": 111.642578125,
 											"height": 13,
-											"text": "+description: String",
+											"text": "-description: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -11367,7 +11367,7 @@
 											"top": 476,
 											"width": 111.642578125,
 											"height": 13,
-											"text": "+deadline: Date",
+											"text": "-deadline: Date",
 											"horizontalAlignment": 0
 										},
 										{
@@ -11384,7 +11384,7 @@
 											"top": 491,
 											"width": 111.642578125,
 											"height": 13,
-											"text": "+points: Int",
+											"text": "-points: Int",
 											"horizontalAlignment": 0
 										}
 									],
@@ -12296,7 +12296,7 @@
 											"top": 558,
 											"width": 119.6025390625,
 											"height": 13,
-											"text": "+totalPoints: Int",
+											"text": "-totalPoints: Int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -12313,7 +12313,7 @@
 											"top": 573,
 											"width": 119.6025390625,
 											"height": 13,
-											"text": "+appreciation: String",
+											"text": "-appreciation: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -15608,6 +15608,7 @@
 								"$ref": "AAAAAAF75Fl26LODrVs="
 							},
 							"name": "numEtudiant",
+							"visibility": "private",
 							"type": "Int"
 						}
 					]
@@ -15726,6 +15727,7 @@
 								"$ref": "AAAAAAF75FoDgLPY2PI="
 							},
 							"name": "nom",
+							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -15735,6 +15737,7 @@
 								"$ref": "AAAAAAF75FoDgLPY2PI="
 							},
 							"name": "description",
+							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -15744,6 +15747,7 @@
 								"$ref": "AAAAAAF75FoDgLPY2PI="
 							},
 							"name": "deadline",
+							"visibility": "private",
 							"type": "Date"
 						},
 						{
@@ -15753,6 +15757,7 @@
 								"$ref": "AAAAAAF75FoDgLPY2PI="
 							},
 							"name": "points",
+							"visibility": "private",
 							"type": "Int"
 						}
 					]
@@ -15812,6 +15817,7 @@
 								"$ref": "AAAAAAF75GBR97bQbyM="
 							},
 							"name": "totalPoints",
+							"visibility": "private",
 							"type": "Int"
 						},
 						{
@@ -15821,6 +15827,7 @@
 								"$ref": "AAAAAAF75GBR97bQbyM="
 							},
 							"name": "appreciation",
+							"visibility": "private",
 							"type": "String"
 						}
 					]
