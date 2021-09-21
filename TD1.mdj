@@ -29685,7 +29685,7 @@
 											"top": 271,
 											"width": 50,
 											"height": 13,
-											"text": "Positif"
+											"text": "Obtenu"
 										},
 										{
 											"_type": "LabelView",
@@ -29836,7 +29836,7 @@
 											"top": 431,
 											"width": 50,
 											"height": 13,
-											"text": "Négatif"
+											"text": "Refusé"
 										},
 										{
 											"_type": "LabelView",
@@ -30563,7 +30563,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF8CKZ21FmGCHc="
 							},
-							"name": "Positif"
+							"name": "Obtenu"
 						},
 						{
 							"_type": "UMLState",
@@ -30571,7 +30571,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF8CKZ21FmGCHc="
 							},
-							"name": "Négatif"
+							"name": "Refusé"
 						},
 						{
 							"_type": "UMLFinalState",
