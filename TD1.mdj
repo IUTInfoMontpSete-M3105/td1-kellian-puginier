@@ -18948,7 +18948,7 @@
 													"top": 47,
 													"width": 112.59716796875,
 													"height": 13,
-													"text": "BaseDeDonnées"
+													"text": "Cours"
 												},
 												{
 													"_type": "LabelView",
@@ -20147,7 +20147,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF8CDhYSwwH9Zg="
 							},
-							"name": "BaseDeDonnées",
+							"name": "Cours",
 							"represent": {
 								"$ref": "AAAAAAF8CDi1hwxdp/8="
 							},
